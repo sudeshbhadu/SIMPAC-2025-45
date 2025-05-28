@@ -1,6 +1,19 @@
 # SIMPAC-2025-45
 ICMP-Flood-SDN: A Python based machine learning application for ICMP Flood DDoS attack detection in Software Defined Networks
 
+The application uses six different machine learning classifiers—both parametric and non-parametric—to classify traffic as either benign or malicious. Developed on the Jupyter Notebook environment, this tool is particularly tailored for SDN environments simulated via Mininet, using the Ryu controller and hping3 for traffic generation.
+
+Features
+SDN-based ICMP flood dataset generation using Mininet and real-world browsing traffic.
+
+Dataset captured with Wireshark and processed via CIC Flowmeter to convert pcap to CSV.
+
+Data preprocessing including cleaning, normalization, and feature selection using correlation-based thresholds.
+
+Trains six classifiers: Logistic Regression, SVM, KNN, Random Forest, Gaussian Naive Bayes, and Decision Tree.
+
+Achieves high accuracy (~99.9%) in DDoS detection.
+
 Dataset Details
 
 Kumar, Sudesh (2025), “SDN ICMP Flood Dataset ”, Mendeley Data, V1, doi: 10.17632/zdczzpkd8z.1
