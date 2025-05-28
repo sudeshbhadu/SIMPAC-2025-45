@@ -22,7 +22,7 @@ Dependencies and setup requirements
 (ii) Scikit-learn
 (iii) pandas
 
-2. Tools 
+2. Network tools requirements 
 (i) Mininet Emulator	V 2.3.0
 (ii) Hping3 tool	V 3.0.0-alpha-2
 (ii) Wireshark tool	(v3.0.2)
