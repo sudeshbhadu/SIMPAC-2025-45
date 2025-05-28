@@ -24,7 +24,7 @@ Screenshots
 ![Screenshot from 2021-12-22 11-17-31](https://github.com/user-attachments/assets/f15131b1-4b26-42ad-bf4e-c757829d0ac8)
 
 2. Before ICMP Flood Attack
-![Screenshot from 2021-12-25 16-43-19](https://github.com/user-attachments/assets/45a1f4b8-90cf-453b-ac90-18cc2bcd9b75)
+
 ![Screenshot from 2021-12-25 16-41-59](https://github.com/user-attachments/assets/4b10544b-e9ca-413f-a237-f919dffff0d2)
 
 2. After ICMP Flood Attack
